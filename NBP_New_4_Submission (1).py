@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 05 19:33:29 2017
-
-@author: Anu.Thomas
-"""
-
-
 from __future__ import division
 import os
 import time
