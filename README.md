@@ -1,2 +1,2 @@
-# Product Recommendation System - NBP Retail
+# Product Recommendation System - Retail
  
